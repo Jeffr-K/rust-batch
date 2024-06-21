@@ -1,0 +1,9 @@
+[package]
+name = "rust-batch"
+version = "0.1.0"
+edition = "2021"
+authors = ["oscar.rs <jeff.cofos@gmail.com>"]
+license = "MIT"
+description = "rust batch system."
+
+[dependencies]
